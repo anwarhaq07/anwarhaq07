@@ -20,10 +20,10 @@ I enjoy building lightweight tools that make testing faster and more reliable �
 
 ## 📌 Pinned Projects (More Coming Soon)
 
-### 🔹 Log Analyzer — *Python*
+### 🔹 Log Analyzer — *Java*
 A CLI tool for parsing test logs from Allion-controlled peripherals, detecting disconnects, timing issues, and communication failures.
 
-### 🔹 USB Event Tracker — *Python + Docker*
+### 🔹 Get Weather — *Python*
 Lightweight automation for collecting and tagging USB attach/detach patterns on ChromeOS DUTs.
 
 
